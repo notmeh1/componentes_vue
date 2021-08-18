@@ -1,5 +1,7 @@
 # vue_componentes
 
+// Fernando Vargas
+
 ## Project setup
 ```
 npm install
